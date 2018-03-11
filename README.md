@@ -1,7 +1,11 @@
 # Rapid Prototyping Course Plan
 
 This repo is a course plan documenting a maker-oriented Introduction to Programming course at Georgia Tech CS-6452.
-The course has been pioneered by the following team at Georgia Tech: Grgory Abowd Aman Parnami Elizabeth DiSalvo Zane Cochran
+The course has been pioneered by the following team at Georgia Tech: 
+Gregory Abowd
+Aman Parnami
+Elizabeth DiSalvo
+Zane Cochran
 
 It's now being redeveloped into a general-use repository by Manasvi Lalwani, who has acted as a Teaching Assistant for the course in the past, in partnership with [Mozilla](https://mozilla.github.io/leadership-training/round-5/projects/#maker-learning-curriculum-for-rapid-prototyping), but in the meantime, you can get started with this:
 1. Start with the [Course Overview Document](https://docs.google.com/document/d/1Wv5CLz1mf0-Lxyammcyn7AI1M7WV4porr7C6DplU5LA/edit?usp=sharing). This is a lengthy document and the outline should pop-up in the sidebar automatically. But in case it does not, go to Add Ons>>Table of Contents>>Show in sidebar. Pay special attention to [Physical Computing Modules and Milestones](https://docs.google.com/document/d/1Wv5CLz1mf0-Lxyammcyn7AI1M7WV4porr7C6DplU5LA/edit#heading=h.nfm85m4oqj9) as it links to major milestones in the class such as assignment prompts and sample student work.
