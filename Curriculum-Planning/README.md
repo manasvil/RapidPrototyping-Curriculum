@@ -36,7 +36,7 @@ With the technological landscape so rapidly changing, a secondary goal of this c
 
 Overall, the class is divided into two conceptual chunks: physical computing and software prototyping.
 
-![](Course-Overview Document-images/image_0.png)
+![](Overview-images/image_0.png)
 
 # What skills will students learn in this course?
 
@@ -78,7 +78,7 @@ While the original motivation for the class was to give students competency in p
 
 It is also worth noting that these skills have a place both in research and the industry with job openings for titles such as UX Prototyper and Creative Technologist as well as major conferences such as Mobile HCI, CHI, UIST, and ISWC featuring work that combines such skills. 
 
-![](Course-Overview Document-images/image_1.png)
+![](Overview-images/image_1.png)
 
 Fig 1: [Transhumanist Design at CHI 2015 ](http://hplusmagazine.com/2015/04/21/transhumanist-design-at-chi-2015/)
 
@@ -175,7 +175,7 @@ Assignments:
 Students will combine learnings from the previous modules and design an integrated (looks like + works like) prototype for their artifact. 
 
 It is important to understand that while this phase is called the 'Integration' stage, students have varying degrees of success with integrating the form and function of the prototypes. Some may produce artifacts that are high-fidelity with respect to form but not very close to capturing the functionality and vice versa. The Houde and Hill model (1996) of 'What do Prototypes Prototype?' can help us think about these final-projects in similar vein(fig. 2 ).
-![](Course-Overview Document-images/image_2.png) 
+![](Overview-images/image_2.png) 
 
 Fig. 2: Model for mapping student's final project artifacts
 
@@ -290,11 +290,11 @@ The space played a huge role in shaping a collaborative environment in the class
 
 > * Projector and screen in the front and back of the class, so students could be made to sit facing each other during activities (fig. 2) 
 
-![](Course-Overview Document-images/image_3.jpg)
+![](Overview-images/image_3.jpg)
 
 Fig. 3: Students sit on both sides of tables, with front and back projectors available
 
-![](Course-Overview Document-images/image_4.jpg)
+![](Overview-images/image_4.jpg)
 Fig. 4: Desk rearranged so materials can be placed in front of the classroom
 
 We used room #1214 of the [U.A. Whitaker Biomedical Engineering](https://www.bme.gatech.edu/bme/directions-bme-gt) building to conduct our class during Fall 2015.
@@ -309,7 +309,7 @@ White boards were affixed to the walls along the perimeter of the classroom and 
 
 We would have liked to have some form of storage in the classroom for safekeeping of artifacts made by students or for storing tools (such as Arduino kits) that we loaned out for the class. We found a workaround by making use of a foldable utility [cart](http://www.walmart.com/ip/Seville-Classics-Folding-Utility-Cart-Black/24949772) (available for around $25 at Walmart) and baskets for transportation of materials(fig. 6).
 
-![](Course-Overview Document-images/image_5.jpg)![](Course-Overview Document-images/image_6.jpg)![](Course-Overview Document-images/image_7.jpg)
+![](Overview-images/image_5.jpg)![](Overview-images/image_6.jpg)![](Overview-images/image_7.jpg)
 
 Fig. 6: Materials organized in boxes and trays and transported using cart
 
