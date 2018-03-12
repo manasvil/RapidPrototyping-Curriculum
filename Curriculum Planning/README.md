@@ -4,21 +4,21 @@ Class Goal
 
 The goal of this course is to
 
-> * Give students the confidence to build a variety of computational artifacts (both software and hardware)
+* Give students the confidence to build a variety of computational artifacts (both software and hardware)
 
-> * Enable students to talk about their design process 
+* Enable students to talk about their design process 
 
-> * Demystify some technical vocabulary
+* Demystify some technical vocabulary
 
 Broadly speaking, this is achieved through:
 
-> * Technical doing
+* Technical doing
 
-> * Technical thinking
+* Technical thinking
 
-> * Technical reading
+* Technical reading
 
-> * Technical writing
+* Technical writing
 
 ## Secondary Goal
 
