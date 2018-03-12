@@ -9,6 +9,7 @@ The goal of this course is to
 * Enable students to talk about their design process 
 
 * Demystify some technical vocabulary
+  ​
 
 Broadly speaking, this is achieved through:
 
@@ -28,7 +29,7 @@ With the technological landscape so rapidly changing, a secondary goal of this c
 
 > * Working with a glass box enclosure instead of a black box enclosure where students start from an example template (code, 3D modeling file etc.) and then dive deeper into the details of the technology by customizing pieces of it
 
-[Tom Igoe](http://www.tigoe.net/blog/) describes:
+[Tom Igoe](http://www.tigoe.net/blog/) describes this as:
 
 > "This is what I call 'glass box enclosure' as opposed to 'black box enclosure'... the box is still nicely packaged, but the complexity is not hidden, it's just wrapped up so you can ignore the details when you want to. You can look inside the package if you want, and learn from it."
 
@@ -256,13 +257,10 @@ This class is not a one person job (especially not for a new teachers) and so we
 
 The following people were directly involved with the curriculum planning of the class
 
-	Gregory Abowd
-
-	Betsy DiSalvo
-
-> Aman Parnami
-
-> Zane Cochran
+- Gregory Abowd
+- Betsy DiSalvo
+- Aman Parnami
+- Zane Cochran
 
 #### Past Students
 
