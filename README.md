@@ -27,19 +27,13 @@ It is written by and for education innovators.
 A course plan gives you a schedule of what content to teach in class and methods that hve been successfully used to impart it.
 This course plan captures the activities followed by the Georiga Tech Instructional team in class and outside of class to get students to tinker with Arduinos and such.
 
-The course has been pioneered by the following team at Georgia Tech:
-Grgory Abowd
-Aman Parnami
-Elizabeth DiSalvo
-Zane Cochran
-
 #### What is the backstory behing developing this course plan?
 
-This Rapid Prototyping course plan was made by Manasvi because an interesting policy decision which called for this class to be taught in rotation by facutly members. Thus, in Fall of 2016 the class would be handed-off to a new faculty instructor. Word was in the grapevine that members of the faculty were apprehensive about taking on the new curriculum. Manasvi found that they had little familiarity with the content and little prior experience with hardware prototyping. Manasvi spent time taking the class as well as later acting as a teaching assistant for the class and spent time documenting and creating content for this course plan as repository for the community.
+This Rapid Prototyping course plan was documented by Manasvi because of an interesting policy decision which called for this class to be taught in rotation by facutly members. Thus, in Fall of 2016 the class would be handed-off to a new faculty instructor. Word was in the grapevine that members of the faculty were apprehensive about taking on the new curriculum. Manasvi found that they had little familiarity with the content and little prior experience with hardware prototyping. Manasvi spent time taking the class as well as later acting as a teaching assistant for the class and spent time documenting and creating content for this course plan as repository for the community.
 
 #### What should you expect to have at the end of reading/using this course plan?
-This class changed my perspective in many ways by making hardware programmable and accessible. I would not say that it made me an expert in hardware prototyping but it helped me overcome a huge mental-block that hardware was not for me to tinker with. 
-I was able to transfer many of the skills I learned in this class to other classes in MS-HCI where I was able to push my skills and learn more about tinkering with electronics.
+"This class changed my perspective in many ways by making hardware programmable and accessible. I would not say that it made me an expert in hardware prototyping but it helped me overcome a huge mental-block that hardware was not for me to tinker with. 
+I was able to transfer many of the skills I learned in this class to other classes in MS-HCI where I was able to push my skills and learn more about tinkering with electronics."
 
 ## Resource
 CS-6452 Prototyping Interactive Systems(HCC-2)
