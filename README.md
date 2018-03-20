@@ -55,7 +55,7 @@ While work is still underway to redevelop the curriculum to a general-use reposi
 4. Find detailed notes in the [Curriculum Planning folder](https://drive.google.com/folderview?id=0BwLVd0W-_5qwRG52RnJRY3JMSnM&usp=sharing) that correspond to the Weeks outlined in the previous document. Some lessons have supplementary video resources that can be viewed to see a demonstration of a technique in our class. There is also a folder showing sample student work under 'Out of Class Assignments Examples + Code' but it is currently private pending approval from students about sharing their work.
 5. There are also supplementary Powerpoints that can be used in-class. These are yet to be added to the weekly folders but they do exist as a teaching resource.
 
-Please note that the guidelines contained here should not be followed exactly. Some of the exercises require use of resources on the Georgia Tech campus. But educators are encouraged to find alternative resources in their community ortweak exercises such that they use readily available resources.
+Please note that the guidelines contained here should not be followed exactly. Some of the exercises require use of resources on the Georgia Tech campus. But educators are encouraged to find alternative resources in their community or tweak exercises such that they use readily available resources.
 For example, there may be sessions where we use a 3-D printer to prototype a case for a prototype but that can substituted by a manual exercise such as forming a cardboard box case. Each module should be tailored to the individual class.
 
 
