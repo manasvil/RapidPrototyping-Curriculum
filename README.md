@@ -1,11 +1,99 @@
 # Rapid Prototyping Course Plan
 
-This repo is a course plan documenting a maker-oriented Introduction to Programming course at Georgia Tech CS-6452.
-The course has been pioneered by the following team at Georgia Tech: 
+Hey everyone, welcome to my repo!
+
+My name is Manasvi and I work as a UX Designer and Data Visualization practitioner in New Jersey. This project is a continuation of my Master's project work at Georgia Tech, where I went to school. 
+
+
+
+## What is this repository about?
+
+This repository aims to capture the curriculum for a maker-oriented course offered at Georgia Tech– CS 6452 also known as Prototyping Interactive Systems which aimed to provide basic technical efficacy to PhD students who came from a variety of backgrounds. The syllabus for this curriculum drew heavily on the concepts and spirit of the DIY (do-it-yourself) culture and could be seen as a maker-oriented approach to prototyping. 
+
+It was developed by the following team at Georgia Tech-
+
 - Gregory Abowd
 - Aman Parnami
 - Elizabeth DiSalvo
 - Zane Cochran
+
+
+
+## What is my motivation in pursuing this project?
+
+In Fall of 2014, I took the course Prototyping Interactive Systems with Dr. Abowd in the instructor’s capacity and Aman Parnami (now Dr. Parnami) as his Teaching Assistant(TA). I came from a software background with an engineering degree in Information Technology and had sworn off any hardware engineering during my four years as an undergraduate, deeming it esoteric and outside of my interest and understanding.
+
+However, this class changed my perspective in many ways by making hardware programmable and accessible. I would not say that it made me an expert in hardware prototyping but it helped me overcome a huge mental-block that hardware was not for me to tinker with. I was able to transfer many of the skills I learned in this class to other classes in MS-HCI where I was able to push my skills and learn more about tinkering with electronics.![img](https://lh5.googleusercontent.com/0jZfEQpkLuFa0-FImJWe4U9CUEu3k_HA3gukrgeF2nR16jCbWeeJzb6oehSgS6Q4K_ZKH4JFDmLZ3UDhzLw1zlPdVKc6u7uoTq6b-qXwq4L8J_4u2U0rnSSN4RpvASUkmuVIj6Jl)
+
+Fig 1. Prototype of a wearable I made for another class
+
+Not only that, I was also able to use these skills towards my internship where I independently prototyped a wearable using an advanced micro-controller that I had no exposure to.
+
+In fact, the biggest takeaway for me was not learning a particular skill but rather ‘learning how to learn’  by doing, reaching for low-hanging fruit, seeking help from online open source resources, etc.
+
+I got even more exposure to this curriculum when I served as a Teaching Assistant for a similar course in Spring of 2015 and  was part of the instructional team for CS-6452 in Fall of 2015 as part of my Master's project where I aimed to capture the curriculum so that it could be taught by other professor's at Georgia Tech.
+
+You can read more about my Master's Project in my [final report](https://docs.google.com/document/d/1aHX0NMNsc8nSigR04VPvXiuA38T-3aC6bP_R2tPBxLM/edit#heading=h.aku14blvrbxg).
+
+## What is the current aim of this project?
+
+Currently, as part of [Mozilla's Open Leadership Training](https://mozilla.github.io/leadership-training/round-5/projects/#maker-learning-curriculum-for-rapid-prototyping) I want to publish the work I have done and make it  available to the community so they can adapt the existing curriculum to suit their context whether it is a workshop, a week-long sprint, targeting a different user-base etc.
+
+I am currently working to move the content from Google Docs to Github so it can be collaborated on more easily. If you are interested in helping, reach out to me via email at manasvi.lalwani@gmail.com.
+
+I am also working with two makers based out of Mumbai, Abrar and Zubin, who conduct 'making' workshops regularly for a variety of audiences ranging from middle-school children to adult teachers. The goal is to identify activities that could be remixed for their upcoming Intro to Arduino workshop in Ahmednagar and support them in any way I can.
+
+## How can you help?
+
+
+
+## Where can you access the curriculum?
+
+While work is still underway to redevelop the curriculum to a general-use repository, in the meantime, you can get started with this:
+
+1. Start with the [Course Overview Document](https://docs.google.com/document/d/1Wv5CLz1mf0-Lxyammcyn7AI1M7WV4porr7C6DplU5LA/edit?usp=sharing). This is a lengthy document and the outline should pop-up in the sidebar automatically. But in case it does not, go to Add Ons>>Table of Contents>>Show in sidebar. Pay special attention to [Physical Computing Modules and Milestones](https://docs.google.com/document/d/1Wv5CLz1mf0-Lxyammcyn7AI1M7WV4porr7C6DplU5LA/edit#heading=h.nfm85m4oqj9) as it links to major milestones in the class such as assignment prompts and sample student work.
+2. Read [Class Philosophies and Mindset](https://docs.google.com/document/d/1LF5SmpCjfAb4eAkxkYvKwMXbwxLkWFatmLKEB3UIAts/edit?usp=sharing) as it shows higher level concepts that need to be kept in mind throughout the course this document also links to some of the [final physical computing projects](https://drive.google.com/folderview?id=0BwLVd0W-_5qwVnRocWpKdlJUbjA&usp=sharing).
+3. Refer to the [Week by Week Class Outline](https://drive.google.com/file/d/0BwLVd0W-_5qwdFplNERLYXlkTWc/view?usp=sharing) for a more detailed agenda for  8 weeks of Physical Computing
+4. Find detailed notes in the [Curriculum Planning folder](https://drive.google.com/folderview?id=0BwLVd0W-_5qwRG52RnJRY3JMSnM&usp=sharing) that correspond to the Weeks outlined in the previous document. Some lessons have supplementary video resources that can be viewed to see a demonstration of a technique in our class. There is also a folder showing sample student work under 'Out of Class Assignments Examples + Code' but it is currently private pending approval from students about sharing their work.
+5. There are also supplementary Powerpoints that can be used in-class. These are yet to be added to the weekly folders but they do exist as a teaching resource.
+
+
+
+
+
+How can you help?
+
+—> Help convert content from Docs to Github
+
+Skills/tags: Github, Markdown, 
+
+—> Help convert content from Docs to Github
+
+Skills/tags: Github, Markdown, 
+
+Proofread and make sure all links work
+
+Skills/tags- Spelling and grammar check, L
+
+Leave general comments
+
+​	if you somehow stumbled upon this repo and stayed for a bit- let us know what you think!
+
+use this google form to leave feedback
+
+If you think you can use part
+
+Interested but unsure how to participate?
+
+​	Reach out to me!
+
+How to contact me?
+
+Email me 
+
+Leave me a comment
+
+
 
 It's now being redeveloped into a general-use repository by Manasvi Lalwani, who has acted as a Teaching Assistant for the course in the past, in partnership with [Mozilla](https://mozilla.github.io/leadership-training/round-5/projects/#maker-learning-curriculum-for-rapid-prototyping), but in the meantime, you can get started with this:
 1. Start with the [Course Overview Document](https://docs.google.com/document/d/1Wv5CLz1mf0-Lxyammcyn7AI1M7WV4porr7C6DplU5LA/edit?usp=sharing). This is a lengthy document and the outline should pop-up in the sidebar automatically. But in case it does not, go to Add Ons>>Table of Contents>>Show in sidebar. Pay special attention to [Physical Computing Modules and Milestones](https://docs.google.com/document/d/1Wv5CLz1mf0-Lxyammcyn7AI1M7WV4porr7C6DplU5LA/edit#heading=h.nfm85m4oqj9) as it links to major milestones in the class such as assignment prompts and sample student work.
