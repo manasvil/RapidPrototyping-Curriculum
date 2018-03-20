@@ -8,16 +8,14 @@ My name is Manasvi and I work as a UX Designer and Data Visualization practition
 
 ## What is this repository about?
 
-This repository aims to capture the curriculum for a maker-oriented course offered at Georgia Tech– CS 6452 also known as Prototyping Interactive Systems which aimed to provide basic technical efficacy to PhD students who came from a variety of backgrounds. The syllabus for this curriculum drew heavily on the concepts and spirit of the DIY (do-it-yourself) culture and could be seen as a maker-oriented approach to prototyping. 
-
-It was developed by the following team at Georgia Tech-
+This repository aims to capture the curriculum for a maker-oriented course offered at Georgia Tech– CS 6452, also known as Prototyping Interactive Systems, which aimed to provide basic technical efficacy to PhD students who came from a variety of backgrounds. The syllabus for this curriculum drew heavily on the concepts and spirit of the DIY (do-it-yourself) culture and could be seen as a maker-oriented approach to prototyping. It was developed by the following pioneering team at Georgia Tech-
 
 - Gregory Abowd
 - Aman Parnami
 - Elizabeth DiSalvo
 - Zane Cochran
 
-
+This class was offered over the course of a full semester and taught two major modules: Introduction to Physical Computing and Introduction to Mobile Phone Programming. This repo focuses purely on the first module i.e. Intro to Physical Computing.
 
 ## What is my motivation in pursuing this project?
 
@@ -37,7 +35,7 @@ You can read more about my Master's Project in my [final report](https://docs.go
 
 ## What is the current aim of this project?
 
-Currently, as part of [Mozilla's Open Leadership Training](https://mozilla.github.io/leadership-training/round-5/projects/#maker-learning-curriculum-for-rapid-prototyping) I want to publish the work I have done and make it  available to the community so they can adapt the existing curriculum to suit their context whether it is a workshop, a week-long sprint, targeting a different user-base etc.
+Currently, as part of [Mozilla's Open Leadership Training](https://mozilla.github.io/leadership-training/round-5/projects/#maker-learning-curriculum-for-rapid-prototyping) I aim to publish the work I have done and make it  available to the community so they can adapt the existing curriculum to suit their context– whether it is a workshop, a week-long sprint, targeting a different user-base etc.
 
 I am currently working to move the content from Google Docs to Github so it can be collaborated on more easily. If you are interested in helping, reach out to me via email at manasvi.lalwani@gmail.com.
 
@@ -57,56 +55,8 @@ While work is still underway to redevelop the curriculum to a general-use reposi
 4. Find detailed notes in the [Curriculum Planning folder](https://drive.google.com/folderview?id=0BwLVd0W-_5qwRG52RnJRY3JMSnM&usp=sharing) that correspond to the Weeks outlined in the previous document. Some lessons have supplementary video resources that can be viewed to see a demonstration of a technique in our class. There is also a folder showing sample student work under 'Out of Class Assignments Examples + Code' but it is currently private pending approval from students about sharing their work.
 5. There are also supplementary Powerpoints that can be used in-class. These are yet to be added to the weekly folders but they do exist as a teaching resource.
 
-
-
-
-
-How can you help?
-
-—> Help convert content from Docs to Github
-
-Skills/tags: Github, Markdown, 
-
-—> Help convert content from Docs to Github
-
-Skills/tags: Github, Markdown, 
-
-Proofread and make sure all links work
-
-Skills/tags- Spelling and grammar check, L
-
-Leave general comments
-
-​	if you somehow stumbled upon this repo and stayed for a bit- let us know what you think!
-
-use this google form to leave feedback
-
-If you think you can use part
-
-Interested but unsure how to participate?
-
-​	Reach out to me!
-
-How to contact me?
-
-Email me 
-
-Leave me a comment
-
-
-
-It's now being redeveloped into a general-use repository by Manasvi Lalwani, who has acted as a Teaching Assistant for the course in the past, in partnership with [Mozilla](https://mozilla.github.io/leadership-training/round-5/projects/#maker-learning-curriculum-for-rapid-prototyping), but in the meantime, you can get started with this:
-1. Start with the [Course Overview Document](https://docs.google.com/document/d/1Wv5CLz1mf0-Lxyammcyn7AI1M7WV4porr7C6DplU5LA/edit?usp=sharing). This is a lengthy document and the outline should pop-up in the sidebar automatically. But in case it does not, go to Add Ons>>Table of Contents>>Show in sidebar. Pay special attention to [Physical Computing Modules and Milestones](https://docs.google.com/document/d/1Wv5CLz1mf0-Lxyammcyn7AI1M7WV4porr7C6DplU5LA/edit#heading=h.nfm85m4oqj9) as it links to major milestones in the class such as assignment prompts and sample student work.
-2. Read [Class Philosophies and Mindset](https://docs.google.com/document/d/1LF5SmpCjfAb4eAkxkYvKwMXbwxLkWFatmLKEB3UIAts/edit?usp=sharing) as it shows higher level concepts that need to be kept in mind throughout the course this document also links to some of the [final physical computing projects](https://drive.google.com/folderview?id=0BwLVd0W-_5qwVnRocWpKdlJUbjA&usp=sharing).
-3. Refer to the [Week by Week Class Outline](https://drive.google.com/file/d/0BwLVd0W-_5qwdFplNERLYXlkTWc/view?usp=sharing) for a more detailed agenda for  8 weeks of Physical Computing
-4. Find detailed notes in the [Curriculum Planning folder](https://drive.google.com/folderview?id=0BwLVd0W-_5qwRG52RnJRY3JMSnM&usp=sharing) that correspond to the Weeks outlined in the previous document. Some lessons have supplementary video resources that can be viewed to see a demonstration of a technique in our class.
-5. There are also supplementary Powerpoints that can be used in-class. These are yet to be added to the Weekly folders but they do exist as a teaching resource.
-
-
-This class was offered to graduate students from the Masters and PhD program but it can be taught at an udergraduate level too.
-This class was offered over the course of Fall semester and taught two major modules: Introduction to Physical Computing and Introduction to Mobile Phone Programming.
-This repo focuses purely on the firs module i.e. Intro to Physical Computing.
-It contains guidelines that should not be followed exactly. Some of the exercises require use of resources on the Georgia Tech campus. But educators are encouraged to find alternative resources in their community ortweak exercises such that they use readily available resources.
+Please note that the guidelines contained here should not be followed exactly. Some of the exercises require use of resources on the Georgia Tech campus. But educators are encouraged to find alternative resources in their community ortweak exercises such that they use readily available resources.
 For example, there may be sessions where we use a 3-D printer to prototype a case for a prototype but that can substituted by a manual exercise such as forming a cardboard box case.
 Each module should be tailored to the individual class.
 It is written by and for education innovators.
+
