@@ -47,6 +47,8 @@ I am also working with two makers based out of Mumbai, Abrar and Zubin, who cond
 
 While a majority of the course has been documented using Google Docs there is a long way to go before it can be truly open. This is a place to start to capture all the things that need to be done to make the documentation more visible so people can start commenting on not just the content but also the Information Architecture of how things have been organized.
 
+The following is a link to [Mozilla's Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/) that we will abide by.
+
 ### Publish content on Github or another open platform
 - Content currently lives in Google Drive and Google Docs but we need a platform that better affords collaboration.
 - Add Powerpoint/Keynote slide decks to respective folders
