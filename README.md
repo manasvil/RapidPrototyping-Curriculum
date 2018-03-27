@@ -14,6 +14,7 @@ This repository aims to capture the curriculum for a maker-oriented course offer
 - Aman Parnami
 - Elizabeth DiSalvo
 - Zane Cochran
+This class was made possible by a NSF grant  NSF DUE 1431984, titled,'Designing and Studying Maker Oriented Learning to Transform Advanced Computer Science'.
 
 This class was offered over the course of a full semester and taught two major modules: Introduction to Physical Computing and Introduction to Mobile Phone Programming. This repo focuses purely on the first module i.e. Intro to Physical Computing.
 
