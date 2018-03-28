@@ -67,7 +67,7 @@ Proofread material to make sure content reads well and that all links work. Ther
 Need design research to obtain feedback on the existing IA of the course material.
 
 ### Create activity sheets/handouts for existing assignments
-Some portions of the course have in-class activities that need step by step instructions. Here is a [sample design](https://drive.google.com/drive/u/0/folders/0BwLVd0W-_5qwRlltMmNJVTNUSTQ) that has already been created that can be used to fit other activities.
+Some portions of the course have in-class activities that need step by step instructions. Here is a [sample design]() that has already been created that can be used to fit other activities.
 
 ### Testing in the wild!
 Have someone actually use the curriculum or portions of the curriculum in a class or workshop form
