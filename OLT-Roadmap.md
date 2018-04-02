@@ -6,7 +6,7 @@
 | Week 5: Mar 20/21 | Meet with collaborators to identify a lesson plan that they can reuse for their workshop |
 | Week 6:           | Support collaborators with what they need, Continue to add more lessons(this may take some time to clean up) |
 | Week 7:           | Supply Material for- How sensing works, Taking things Apart activity, Rainbow Fruit Activity |           
-| Week 8:           | Supply examples of maker project to collaborators, Set up tasks for ![Global Sprint](https://www.mozillapulse.org/entry/659)     |
+| Week 8:           | Supply examples of maker project to collaborators, Set up tasks for [Global Sprint](https://www.mozillapulse.org/entry/659)     |
 | Week 9:           |                                                              |
 | Week 10:          |                                                              |
 |                   |                                                              |
