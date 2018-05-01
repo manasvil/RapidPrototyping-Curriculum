@@ -2,9 +2,9 @@
 
 Hey everyone, welcome to my repo!
 
-My name is Manasvi and I work as a UX Designer and Data Visualization practitioner in New Jersey. This project is a continuation of my Master's project work at Georgia Tech, where I went to school. 
+My name is Manasvi and I work as a UX Designer and Data Visualization practitioner in New Jersey. This project is a continuation of my Master's project work at Georgia Tech, where I went to school.
 
-
+If you are here because of Mozilla's Global Sprint you can join the chat channel for this project [here](https://gitter.im/RapidPrototyping-Curriculum/Lobby#).
 
 ## What is this repository about?
 
