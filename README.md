@@ -1,5 +1,7 @@
 # Rapid Prototyping Course Plan
 
+[![Join the chat at https://gitter.im/RapidPrototyping-Curriculum/Lobby](https://badges.gitter.im/RapidPrototyping-Curriculum/Lobby.svg)](https://gitter.im/RapidPrototyping-Curriculum/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Hey everyone, welcome to my repo!
 
 My name is Manasvi and I work as a UX Designer and Data Visualization practitioner in New Jersey. This project is a continuation of my Master's project work at Georgia Tech, where I went to school.
