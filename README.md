@@ -27,6 +27,7 @@ In Fall of 2014, I took the course Prototyping Interactive Systems with Dr. Abow
 
 However, this class changed my perspective in many ways by making hardware programmable and accessible. My very first project for this class was a [prototype of an interactive lamp](https://vimeo.com/119032441) that pulled weather information using web API's and displayed it to the user. I  would not say that it made me an expert in hardware prototyping but it helped me overcome a huge mental-block that hardware was not for me to tinker with.
 I was able to transfer many of the skills I learned in this class to other classes in MS-HCI where I was able to push my skills and learn more about tinkering with electronics.![img](https://lh5.googleusercontent.com/0jZfEQpkLuFa0-FImJWe4U9CUEu3k_HA3gukrgeF2nR16jCbWeeJzb6oehSgS6Q4K_ZKH4JFDmLZ3UDhzLw1zlPdVKc6u7uoTq6b-qXwq4L8J_4u2U0rnSSN4RpvASUkmuVIj6Jl)
+
 [Fig 1. Prototype of a wearable I made for another class](https://vimeo.com/164013592)
 
 Not only that, I was also able to use these skills towards my internship where I independently prototyped a wearable using an advanced micro-controller that I had no exposure to.
