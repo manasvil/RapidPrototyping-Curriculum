@@ -1,6 +1,6 @@
 <table style="width:100%;">
 <colgroup>
-<col style="width: 10%" />
+<col style="width: 16%" />
 <col style="width: 16%" />
 <col style="width: 16%" />
 <col style="width: 16%" />
