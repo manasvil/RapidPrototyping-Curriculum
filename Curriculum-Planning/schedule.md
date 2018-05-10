@@ -19,11 +19,11 @@
 <td>Week 1</td>
 <td>Lecture: Introduction to Course (Abowd)<br>Activity: Getting started with Processing Slides
 </td>
-<td><a href="http://gtprototyping2015.pbworks.com/w/file/fetch/99245306/Week%201%20Intro%20and%20Processing%202015.pdf">Week 1 Intro and Processing 2015</a></td>
+<td><a href="http://gtprototyping2015.pbworks.com/w/file/fetch/99245306/Week%201%20Intro%20and%20Processing%202015.pdf">Intro and Processing 2015 Slides</a></td>
 <td><a href="http://processing.org" class="uri">http://processing.org</a></td>
-<td> <a href="/w/file/99308403/Programming%20Assignment%201%20-%20Processing%20create%20a%20sketch.pdf">Programming Assignment 1 - Processing create a sketch.pdf</a>due
-08/23/15 by 5pm (day before class)
+<td> <a href="http://gtprototyping2015.pbworks.com/w/file/fetch/99308403/Programming%20Assignment%201%20-%20Processing%20create%20a%20sketch.pdf">Programming Assignment 1 - Processing create a sketch.pdf</a>due
+day before the following class
 </td>
-</tr>
+</tr>  
 </tbody>
 </table>
