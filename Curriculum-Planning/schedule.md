@@ -21,7 +21,7 @@
 </td>
 <td><a href="http://gtprototyping2015.pbworks.com/w/file/fetch/99245306/Week%201%20Intro%20and%20Processing%202015.pdf">Intro and Processing 2015 Slides</a></td>
 <td><a href="http://processing.org" class="uri">http://processing.org</a></td>
-<td> <a href="http://gtprototyping2015.pbworks.com/w/file/fetch/99308403/Programming%20Assignment%201%20-%20Processing%20create%20a%20sketch.pdf">Programming Assignment 1 - Processing create a sketch.pdf</a>due
+<td> <a href="http://gtprototyping2015.pbworks.com/w/file/fetch/99308403/Programming%20Assignment%201%20-%20Processing%20create%20a%20sketch.pdf">Programming Assignment 1 - Processing create a sketch.pdf</a> due
 day before the following class
 </td>
 </tr>  
