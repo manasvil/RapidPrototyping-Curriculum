@@ -17,8 +17,7 @@
 </tr>
 <tr class="even">
 <td>Week 1</td>
-<td>Lecture: Introduction to Course (Abowd)
-Activity: Getting started with Processing Slides: </span>
+<td>Lecture: Introduction to Course (Abowd)<br>Activity: Getting started with Processing Slides
 <a href="/w/file/99245306/Week%201%20Intro%20and%20Processing%202015.pdf">Week 1 Intro and Processing 2015.pdf</a>
 </td>
 <td>                                                                                                   </td>
